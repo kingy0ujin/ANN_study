@@ -1,5 +1,5 @@
-# 활성화 함수
-## 1. 단극성 시그모이드 함수(파이썬 코드로 살펴보기)
+# 시그모이드 함수, 파이썬 코드로 살펴보기
+## 1. 단극성 시그모이드 함수
 
 ```python
 import numpy as np
@@ -20,7 +20,7 @@ plt.grid(True)
 plt.legend()
 plt.show()
 ```
-## 2. 양극성 시그모이드 함수(파이썬 코드로 살펴보기)
+## 2. 양극성 시그모이드 함수
 
 ```python
 import numpy as np
