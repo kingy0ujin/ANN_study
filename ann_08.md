@@ -20,6 +20,8 @@ plt.grid(True)
 plt.legend()
 plt.show()
 ```
+<img width="445" alt="20231023_175542" src="https://github.com/kingy0ujin/ANN_study/assets/127166629/a882e7a5-785c-4429-b808-2686c841edb8">
+
 ## 2. 양극성 시그모이드 함수
 
 ```python
@@ -39,3 +41,4 @@ plt.ylabel('f(z)')
 plt.grid(True)
 plt.show()
 ```
+<img width="448" alt="20231023_180934" src="https://github.com/kingy0ujin/ANN_study/assets/127166629/b105dd2b-9b7e-4d2a-a419-cd2246ba3cff">
